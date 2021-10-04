@@ -1,5 +1,5 @@
 {
-  "name": "import_skeleton",
+  "name": "node-express-mongoose-skeleton",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
